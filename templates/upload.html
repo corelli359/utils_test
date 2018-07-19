@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<body>
+<form method="POST" enctype="multipart/form-data" action="" name="my_form">
+    <input type="file" name="file_name">
+    <select id="type_select" name="selected_type">
+        <option value="none">请选择类型</option>
+        <option value="Y_REPORT_ID">SAIC_TASK</option>
+        <option value="Y_REPORT_ID_TEMP">SAIC_TASK_TEMP</option>
+    </select>
+
+    <input type="submit" value="上传" id="btn" onclick="btn_click(this.form)">
+    <!--<input type="submit" value="上传">-->
+</form>
+</body>
+
+<script type="text/javascript">
+    function btn_click(form) {
+        if (form.file_name.value == '') {
+            alert('请选择文件');
+            form.file_name.focus();
+            return False
+        }
+        if (form.selected_type.value == 'none') {
+            alert('请选择类型');
+            form.selected_type.focus();
+            return False
+        }
+        form.submit();
+        // document.my_form.submit();
+    }
+
+</script>
+</html>
