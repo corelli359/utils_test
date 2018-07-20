@@ -1,0 +1,58 @@
+[
+    {
+        "people": "冯碧波",
+        "position": " 主任医师 副教授",
+        "score": 3.8,
+        "ablity": "产前检查（1票）",
+        "work_sched": "专家门诊  地点：西区\n专家门诊  地点：西区"
+    },
+    {
+        "people": "付玉静",
+        "position": " 主任医师 ",
+        "score": 3.7,
+        "ablity": "剖腹产（2票）",
+        "work_sched": "专家门诊  地点：南区\n专家门诊  地点：南区"
+    },
+    {
+        "people": "冯冲",
+        "position": " 副主任医师 ",
+        "score": 3.6,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "田秀兰",
+        "position": " 副主任医师 ",
+        "score": 3.6,
+        "ablity": "孕前检查（1票）",
+        "work_sched": ""
+    },
+    {
+        "people": "林燕",
+        "position": " 主治医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "张春凤",
+        "position": " 副主任医师 ",
+        "score": 3.4,
+        "ablity": "",
+        "work_sched": "专家门诊 挂号费：60.00元 地点：西区"
+    },
+    {
+        "people": "赵莲",
+        "position": " 副主任医师 ",
+        "score": 3.4,
+        "ablity": "",
+        "work_sched": "专家门诊  地点：南区"
+    },
+    {
+        "people": "谷晔红",
+        "position": " 副主任医师 ",
+        "score": 3.4,
+        "ablity": "",
+        "work_sched": "专家门诊 挂号费：60.00元 地点：西区\n专家门诊 挂号费：60.00元 地点：西区"
+    }
+]

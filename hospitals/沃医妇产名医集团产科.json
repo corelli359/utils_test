@@ -1,0 +1,58 @@
+[
+    {
+        "people": "陈倩",
+        "position": " 主任医师 教授",
+        "score": 4.5,
+        "ablity": "产前检查（81票）\n分娩（3票）\n妊娠合并症（2票）\n剖腹产（2票）",
+        "work_sched": ""
+    },
+    {
+        "people": "张建平",
+        "position": " 主任医师 教授",
+        "score": 4.2,
+        "ablity": "习惯性流产（16票）\n胎停（2票）\n不孕不育（1票）",
+        "work_sched": ""
+    },
+    {
+        "people": "李婷",
+        "position": " 主任医师 副教授",
+        "score": 4.0,
+        "ablity": "产前检查（3票）\n剖腹产（1票）",
+        "work_sched": ""
+    },
+    {
+        "people": "李映桃",
+        "position": " 主任医师 教授",
+        "score": 4.0,
+        "ablity": "妊娠合并症（4票）\n产前检查（3票）\n分娩（1票）\n宫颈机能不全（1票）",
+        "work_sched": ""
+    },
+    {
+        "people": "陈敏",
+        "position": " 主任医师 副教授",
+        "score": 3.9,
+        "ablity": "产前检查（3票）\n异常妊娠（2票）",
+        "work_sched": ""
+    },
+    {
+        "people": "李瑞满",
+        "position": " 主任医师 教授",
+        "score": 3.9,
+        "ablity": "妊娠合并症（1票）",
+        "work_sched": ""
+    },
+    {
+        "people": "刘慧姝",
+        "position": " 副主任医师 副教授",
+        "score": 3.9,
+        "ablity": "异常妊娠（1票）",
+        "work_sched": ""
+    },
+    {
+        "people": "林莲莲",
+        "position": " 主任医师 教授",
+        "score": 3.4,
+        "ablity": "",
+        "work_sched": ""
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "people": "葛自银",
+        "position": " 副主任医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": "专家门诊 "
+    },
+    {
+        "people": "麻秀丽",
+        "position": " 副主任医师 ",
+        "score": 3.6,
+        "ablity": "剖腹产（1票）",
+        "work_sched": "专家门诊 "
+    },
+    {
+        "people": "李春玲",
+        "position": " 副主任医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": "专家门诊 "
+    },
+    {
+        "people": "马红梅",
+        "position": " 主任医师 ",
+        "score": 3.5,
+        "ablity": "产前检查（1票）",
+        "work_sched": "专家门诊 \n专家门诊 "
+    },
+    {
+        "people": "胡静",
+        "position": " 副主任医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": "专家门诊 "
+    },
+    {
+        "people": "张彩霞",
+        "position": " 副主任医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": "专家门诊 "
+    }
+]

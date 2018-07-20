@@ -1,0 +1,72 @@
+[
+    {
+        "people": "黄歆",
+        "position": " 住院医师 ",
+        "score": 3.7,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "段志坚",
+        "position": " 副主任医师 ",
+        "score": 3.5,
+        "ablity": "剖腹产（1票）",
+        "work_sched": "专家门诊 "
+    },
+    {
+        "people": "赵温",
+        "position": " 主任医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": "专家门诊 "
+    },
+    {
+        "people": "马仲秋",
+        "position": " 副主任医师 ",
+        "score": 3.4,
+        "ablity": "产前检查（1票）",
+        "work_sched": "专家门诊 "
+    },
+    {
+        "people": "刘海艳",
+        "position": " 主治医师 ",
+        "score": 3.3,
+        "ablity": "产前检查（1票）",
+        "work_sched": ""
+    },
+    {
+        "people": "冯清雁",
+        "position": " 副主任医师 ",
+        "score": 3.3,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "王劭敏",
+        "position": " 副主任医师 ",
+        "score": 3.3,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "贾红梅",
+        "position": " 副主任医师 ",
+        "score": 3.3,
+        "ablity": "",
+        "work_sched": "专家门诊 "
+    },
+    {
+        "people": "于春燕",
+        "position": " 主治医师 ",
+        "score": 3.3,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "钱年凤",
+        "position": " 主治医师 ",
+        "score": 3.3,
+        "ablity": "",
+        "work_sched": ""
+    }
+]

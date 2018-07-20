@@ -1,0 +1,100 @@
+[
+    {
+        "people": "张小金",
+        "position": " 主任医师 ",
+        "score": 3.6,
+        "ablity": "",
+        "work_sched": "专家门诊 "
+    },
+    {
+        "people": "刘理达",
+        "position": " 主治医师 ",
+        "score": 3.6,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "杨海平",
+        "position": " 副主任医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": "专家门诊 "
+    },
+    {
+        "people": "薛小文",
+        "position": " 住院医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "王雪娇",
+        "position": " 住院医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "姬秀明",
+        "position": " 主任医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": "专家门诊 \n专家门诊 "
+    },
+    {
+        "people": "王书平",
+        "position": " 住院医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "杨静",
+        "position": " 主治医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "张明会",
+        "position": " 副主任医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": "专家门诊 "
+    },
+    {
+        "people": "李东青",
+        "position": " 住院医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "胡立静",
+        "position": " 住院医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "张晓颖",
+        "position": " 主治医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "吕玲玲",
+        "position": " 主治医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "赵文平",
+        "position": " 主治医师 ",
+        "score": 3.4,
+        "ablity": "",
+        "work_sched": ""
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "people": "席亚娟",
+        "position": " 副主任医师 ",
+        "score": 4.0,
+        "ablity": "产前检查（21票）\n先兆流产（2票）\n异常妊娠（1票）\n前置胎盘（1票）",
+        "work_sched": "专家门诊 挂号费：50.00元\n特需门诊 挂号费：100.00元\n特需门诊 挂号费：100.00元\n专家门诊 挂号费：50.00元"
+    },
+    {
+        "people": "赵瑞琳",
+        "position": " 主任医师 教授",
+        "score": 3.9,
+        "ablity": "",
+        "work_sched": "特需门诊 挂号费：200.00元"
+    },
+    {
+        "people": "周世梅",
+        "position": " 主任医师 教授",
+        "score": 3.9,
+        "ablity": "",
+        "work_sched": "特需门诊 挂号费：200.00元"
+    },
+    {
+        "people": "马彦彦",
+        "position": " 主任医师 ",
+        "score": 3.7,
+        "ablity": "产前检查（1票）",
+        "work_sched": "专家门诊 挂号费：200.00元\n专家门诊 挂号费：200.00元"
+    },
+    {
+        "people": "应玉华",
+        "position": " 主任医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": "特需门诊 挂号费：100元\n专家门诊 \n特需门诊 挂号费：100元"
+    },
+    {
+        "people": "景海云",
+        "position": " 副主任医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": "专家门诊 "
+    },
+    {
+        "people": "王艳琴",
+        "position": " 副主任医师 ",
+        "score": 3.4,
+        "ablity": "",
+        "work_sched": "普通门诊 \n特需门诊 挂号费：100元\n特需门诊 挂号费：100元"
+    },
+    {
+        "people": "李琦",
+        "position": " 副主任医师 ",
+        "score": 3.3,
+        "ablity": "产前检查（1票）",
+        "work_sched": "专家门诊 挂号费：50元\n特需门诊 挂号费：30元\n专家门诊 挂号费：50元\n特需门诊 挂号费：100元"
+    },
+    {
+        "people": "孙学珍",
+        "position": " 副主任医师 ",
+        "score": 3.3,
+        "ablity": "",
+        "work_sched": "专家门诊 "
+    },
+    {
+        "people": "王媛媛",
+        "position": " 住院医师 ",
+        "score": 3.2,
+        "ablity": "产前检查（1票）",
+        "work_sched": ""
+    }
+]

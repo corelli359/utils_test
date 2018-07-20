@@ -1,0 +1,58 @@
+[
+    {
+        "people": "赵志玲",
+        "position": " 副主任医师 ",
+        "score": 3.5,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "马海会",
+        "position": " 副主任医师 ",
+        "score": 3.4,
+        "ablity": "",
+        "work_sched": "专家门诊 "
+    },
+    {
+        "people": "孙玉秀",
+        "position": " 主任医师 ",
+        "score": 3.4,
+        "ablity": "产前检查（1票）",
+        "work_sched": "专家门诊 \n专家门诊 "
+    },
+    {
+        "people": "刘亚非",
+        "position": " 主任医师 ",
+        "score": 3.4,
+        "ablity": "产前检查（1票）",
+        "work_sched": "专家门诊 \n专家门诊 \n专家门诊 "
+    },
+    {
+        "people": "孟文颖",
+        "position": " 副主任医师 ",
+        "score": 3.3,
+        "ablity": "剖腹产（1票）",
+        "work_sched": "专家门诊 \n专家门诊 \n专家门诊 \n专家门诊 "
+    },
+    {
+        "people": "靳国荣",
+        "position": " 主任医师 ",
+        "score": 3.3,
+        "ablity": "",
+        "work_sched": "专家门诊 \n专家门诊 "
+    },
+    {
+        "people": "贾利英",
+        "position": " 副主任医师 ",
+        "score": 3.3,
+        "ablity": "",
+        "work_sched": "专家门诊 \n专家门诊 \n专家门诊 \n专家门诊 "
+    },
+    {
+        "people": "田杰",
+        "position": " 副主任医师 ",
+        "score": 3.3,
+        "ablity": "",
+        "work_sched": "专家门诊 "
+    }
+]

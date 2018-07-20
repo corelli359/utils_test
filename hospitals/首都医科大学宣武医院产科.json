@@ -1,0 +1,72 @@
+[
+    {
+        "people": "迟心左",
+        "position": " 主任医师 ",
+        "score": 3.5,
+        "ablity": "产前检查（1票）",
+        "work_sched": "特需门诊 挂号费：320元\n专家门诊 挂号费：100.00元"
+    },
+    {
+        "people": "于荣",
+        "position": " 主任医师 ",
+        "score": 3.9,
+        "ablity": "产前检查（14票）\n异常妊娠（1票）",
+        "work_sched": "专家门诊 挂号费：80元"
+    },
+    {
+        "people": "刘维靖",
+        "position": " 主任医师 教授",
+        "score": 3.7,
+        "ablity": "产前检查（1票）",
+        "work_sched": ""
+    },
+    {
+        "people": "孙晓燕",
+        "position": " 副主任医师 ",
+        "score": 3.6,
+        "ablity": "产前检查（2票）\n分娩（1票）",
+        "work_sched": "专家门诊 挂号费：60元\n专家门诊 挂号费：60元"
+    },
+    {
+        "people": "周齐",
+        "position": " 主任医师 ",
+        "score": 3.6,
+        "ablity": "产前检查（1票）\n胆汁淤积综合症（1票）",
+        "work_sched": "特需门诊 挂号费：320元\n专家门诊 挂号费：100.00元"
+    },
+    {
+        "people": "韩小英",
+        "position": " 主任医师 ",
+        "score": 3.6,
+        "ablity": "",
+        "work_sched": "专家门诊 挂号费：100.00元"
+    },
+    {
+        "people": "王凤英",
+        "position": " 主任医师 ",
+        "score": 3.5,
+        "ablity": "产前检查（1票）",
+        "work_sched": "专家门诊 挂号费：100.00元\n特需门诊 挂号费：320.00元"
+    },
+    {
+        "people": "杨咏梅",
+        "position": " 主治医师 ",
+        "score": 3.4,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "温烯",
+        "position": " 住院医师 ",
+        "score": 3.4,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "杨贺勤",
+        "position": " 住院医师 ",
+        "score": 3.4,
+        "ablity": "",
+        "work_sched": ""
+    }
+]

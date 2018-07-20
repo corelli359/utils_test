@@ -1,0 +1,65 @@
+[
+    {
+        "people": "郑逸仙",
+        "position": " 主治医师 ",
+        "score": 3.5,
+        "ablity": "妇科病（1票）",
+        "work_sched": ""
+    },
+    {
+        "people": "李敏",
+        "position": " 副主任医师 ",
+        "score": 3.4,
+        "ablity": "",
+        "work_sched": "专家门诊 "
+    },
+    {
+        "people": "梅雪",
+        "position": " 主治医师 ",
+        "score": 3.4,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "吕秋兰",
+        "position": " 主任医师 ",
+        "score": 3.4,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "柴红芳",
+        "position": " 主治医师 ",
+        "score": 3.4,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "刘芳",
+        "position": " 主治医师 ",
+        "score": 3.4,
+        "ablity": "产前检查（1票）",
+        "work_sched": ""
+    },
+    {
+        "people": "邹容",
+        "position": " 主治医师 ",
+        "score": 3.3,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "赵艳霞",
+        "position": " 主治医师 ",
+        "score": 3.2,
+        "ablity": "",
+        "work_sched": ""
+    },
+    {
+        "people": "欧阳玉林",
+        "position": " 副主任医师 ",
+        "score": 3.2,
+        "ablity": "",
+        "work_sched": ""
+    }
+]
