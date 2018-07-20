@@ -11,48 +11,48 @@
         "position": " 副主任医师 ",
         "score": 3.4,
         "ablity": "",
-        "work_sched": "专家门诊 "
+        "work_sched": "周五上午 专家门诊 "
     },
     {
         "people": "孙玉秀",
         "position": " 主任医师 ",
         "score": 3.4,
         "ablity": "产前检查（1票）",
-        "work_sched": "专家门诊 \n专家门诊 "
+        "work_sched": "周三上午 专家门诊 \n周三下午 专家门诊 "
     },
     {
         "people": "刘亚非",
         "position": " 主任医师 ",
         "score": 3.4,
         "ablity": "产前检查（1票）",
-        "work_sched": "专家门诊 \n专家门诊 \n专家门诊 "
+        "work_sched": "周一下午 专家门诊 \n周二上午 专家门诊 \n周三下午 专家门诊 "
     },
     {
         "people": "孟文颖",
         "position": " 副主任医师 ",
         "score": 3.3,
         "ablity": "剖腹产（1票）",
-        "work_sched": "专家门诊 \n专家门诊 \n专家门诊 \n专家门诊 "
+        "work_sched": "周一上午 专家门诊 \n周一下午 专家门诊 \n周三上午 专家门诊 \n周三下午 专家门诊 "
     },
     {
         "people": "靳国荣",
         "position": " 主任医师 ",
         "score": 3.3,
         "ablity": "",
-        "work_sched": "专家门诊 \n专家门诊 "
+        "work_sched": "周二下午 专家门诊 \n周四上午 专家门诊 "
     },
     {
         "people": "贾利英",
         "position": " 副主任医师 ",
         "score": 3.3,
         "ablity": "",
-        "work_sched": "专家门诊 \n专家门诊 \n专家门诊 \n专家门诊 "
+        "work_sched": "周二上午 专家门诊 \n周二下午 专家门诊 \n周五上午 专家门诊 \n周五下午 专家门诊 "
     },
     {
         "people": "田杰",
         "position": " 副主任医师 ",
         "score": 3.3,
         "ablity": "",
-        "work_sched": "专家门诊 "
+        "work_sched": "周四上午 专家门诊 "
     }
 ]
