@@ -53,7 +53,6 @@ var options = {
     gzip: true,
     headers:
         {
-            'Postman-Token': '83f9e28b-308c-4165-af7e-3bf44ce8629c',
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36',
             'Upgrade-Insecure-Requests': '1',
             Referer: 'http://epub.sipo.gov.cn/patentoutline.action',
@@ -62,7 +61,7 @@ var options = {
             'Content-Type': 'application/x-www-form-urlencoded',
             'Content-Length': '187',
             Connection: 'keep-alive',
-            'Cache-Control': 'no-cache',
+            'Cache-Control': 'max-age=0',
             'Accept-Language': 'zh-CN,zh;q=0.9',
             'Accept-Encoding': 'gzip, deflate',
             Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
